@@ -106,6 +106,8 @@ O projeto utiliza a API do [Rest Countries](https://restcountries.com), que forn
 ## Funcionalidades do Projeto
 
 ### 1. Busca de países no mapa
+![image](https://github.com/user-attachments/assets/b6744495-e7e9-4a8b-ba87-f64156b29404)
+
 
 Ao inserir o nome de um país, o programa utiliza a API para buscar informações como:
 - Nome
@@ -123,6 +125,7 @@ As informações são exibidas em um mapa interativo com marcadores.
 3. O mapa interativo será exibido com as informações detalhadas.
 
 ### 2. Jogo de adivinhação de bandeiras
+![image](https://github.com/user-attachments/assets/54858b2b-452f-4c53-97c9-647f47402b3f)
 
 - O programa exibe uma bandeira que foi requisitada através da API REST.
 - O usuário deve selecionar o nome do país correspondente entre as opções apresentadas.
@@ -135,6 +138,7 @@ As informações são exibidas em um mapa interativo com marcadores.
 4. Avance para a próxima rodada até o final do jogo.
 
 ### 3. Jogo de adivinhação de capitais
+![image](https://github.com/user-attachments/assets/0f82a4dd-79c1-46f2-abc3-78cb03d2ec31)
 
 - O programa exibe o nome de uma capital que foi requisitada através da API REST.
 - O usuário deve selecionar o país correspondente entre as opções apresentadas.
@@ -153,3 +157,6 @@ As informações são exibidas em um mapa interativo com marcadores.
    - Pesquise por países e visualize o mapa interativo.
    - Participe do jogo de adivinhar o país através da bandeira.
    - Participe do jogo de adivinhar o país através da capital.
+  
+   
+
